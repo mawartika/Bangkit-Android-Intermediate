@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Story Android Intermediate</string>
+    <string name="signup_user">Signup User</string>
+    <string name="login_user">Login User</string>
+    <string name="message_welcome_page_story">Want to learn Android, iOS, Machine Learning, Cloud, Front-End, Back-End, and other IT fields? Just on Android Intermediate (Dicoding) Stories!</string>
+    <string name="story_title_welcome_page">Welcome to Story Android Intermediate (Dicoding)!</string>
+    <string name="story_title_signup_page">Complete your data below, yeahh!</string>
+    <string name="email_user">Email User</string>
+    <string name="password_user">Password User</string>
+    <string name="message_login_page_story">Enter your data first, yeahh!</string>
+    <string name="story_title_login_page">Are you ready to upgrade your skills?</string>
+    <string name="name_user">Name User</string>
+    <string name="story_message_main_page">Happy Learning at Story Android Intermediate (Dicoding).</string>
+    <string name="story_greeting">Halo %1$s,</string>
+    <string name="logout_user">Logout Dari Story</string>
+</resources>
